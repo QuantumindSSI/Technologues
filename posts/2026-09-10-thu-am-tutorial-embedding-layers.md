@@ -1,4 +1,4 @@
-# Week 3 · Thu 2026-09-10 · 09:00 · Hands-on: Build an Embedding Layer in an Hour and Find Out It Knows Nothing
+# Hands-on: Build an Embedding Layer in an Hour and Find Out It Knows Nothing
 
 **Topic:** Building a token and position embedding layer from scratch, sizing it against four published model configurations, and measuring exactly how much meaning an untrained one carries
 
