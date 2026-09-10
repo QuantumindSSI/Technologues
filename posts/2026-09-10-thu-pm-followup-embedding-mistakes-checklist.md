@@ -1,4 +1,4 @@
-# Week 3 · Thu 2026-09-10 · 17:00 · Follow-up: Five Checks Before You Trust Your Embedding Layer
+# Follow-up: Five Checks Before You Trust Your Embedding Layer
 
 **Topic:** Five verifiable checks on an embedding layer, each with the production symptom you get for skipping it
 
